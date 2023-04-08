@@ -1,4 +1,4 @@
-# COMMENT
+# README
 
 ## How to run sample program
 
