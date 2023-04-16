@@ -3,7 +3,7 @@
 ## How to run sample program
 
 1. `make`
-2. `./hello-V2.out` 
+2. `./hello-V3.out` 
 3. You will see "gate!6: Hello World! from sub. run_prg_hello in mod_prg_hello"
 
 
