@@ -9,4 +9,6 @@
   - a simple case including a module 
 - main-V3
   - an example of out-of-source
+- main-V4
+  - an example 2 of out-of-source
 
